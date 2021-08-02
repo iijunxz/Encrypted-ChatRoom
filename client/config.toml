@@ -1,0 +1,5 @@
+font = "等线"
+size = 15
+address = "127.0.0.1:12345"
+key = "TheDefaultKey"
+name = "NickName"

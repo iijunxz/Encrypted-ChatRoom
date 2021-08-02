@@ -1,0 +1,14 @@
+[package]
+name = "client"
+version = "0.1.0"
+authors = ["iijunxz"]
+edition = "2018"
+
+[dependencies]
+egui = "*"
+epi  = "*"
+eframe = "*"
+aes-gcm = "*"
+base64 = "*"
+font-loader = "*"
+toml = "*"
